@@ -112,4 +112,4 @@ mailboxhub stores account records, settings, and synced email data locally in SQ
 
 ## License
 
-No license file has been added yet. Add a license before distributing or accepting external contributions.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
